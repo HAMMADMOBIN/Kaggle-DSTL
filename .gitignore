@@ -99,3 +99,24 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+
+## add more
+*.pyc
+*.joblib
+*egg-info
+.tox
+build
+dist
+.idea
+.ipynb_checkpoints
+htmlcov
+.coverage.*
+.coverage
+.cache
+docs/_build
+.hypothesis
+.html
+.mypy_cache
+mypy-cov
